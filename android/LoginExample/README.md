@@ -4,4 +4,4 @@ Simple Login Example app generated with Android Studio. Starting point to learn 
 
 Valid username/password: smucikon/LubieWolmo
 
-License: MIT
+License: [MIT License](LICENSE)

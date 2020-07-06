@@ -4,4 +4,4 @@ Port of the 2048 game by Gabriele Cirulli. It's playable without network connect
 
 Source: https://github.com/uberspot/2048-android
 
-License: MIT License
+License: [MIT License](https://github.com/uberspot/2048-android/blob/master/LICENSE)
